@@ -1,4 +1,4 @@
 # twitch_streamers
-see work https://codepen.io/upanan82/full/GjdWXk/
+see work https://upanan82.github.io/twitch_streamers/
 
 © upanan82
